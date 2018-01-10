@@ -1,0 +1,9 @@
+@import 'wireframe-block/style.css';
+
+.block {
+  color: green;
+}
+
+.button--primary {
+  background: red;
+}
